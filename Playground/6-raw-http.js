@@ -1,4 +1,4 @@
-const http = require("http");
+const http = require("http"); //http
 const key = "Your key";
 const url =
   "http://api.weatherstack.com/current?access_key=" +
